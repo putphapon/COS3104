@@ -7,7 +7,7 @@
 // }
 
 
-public class cos3104_hw01 {
+public class cos3104_hw01_04 {
   static int m = 5000;
   static int n = 1024;
 
