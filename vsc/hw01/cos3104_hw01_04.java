@@ -1,4 +1,4 @@
-//import java.util.Scanner;
+// import java.util.Scanner;
 // Scanner input = new Scanner(System.in);
 // System.out.println("input 15000 : ");
 // int i = Integer.parseInt(input.nextLine());
@@ -6,18 +6,19 @@
 //   f(a);
 // }
 
+package vsc.hw01;
 
 public class cos3104_hw01_04 {
   static int m = 5000;
   static int n = 1024;
 
-  public static void f(int i) {
-    int[] x = new int[m*n];
+  public static void f(final int i) {
+    //int[] x = new int[m*n];
     System.out.println("Count "+i+" : "+ m +"k");
     f(i+1);
   }
   
-  public static void main(String[] args) {
+  public static void main(final String[] args) {
     f(0);
   }
 }

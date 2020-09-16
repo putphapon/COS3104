@@ -27,3 +27,6 @@ hs_err_pid*
 
 *.docx
 *.pdf
+/nb_hw02/hw_02/nbproject/private/
+/nb_hw02/hw_02/build/
+/nb_hw02/hw_02/dist/

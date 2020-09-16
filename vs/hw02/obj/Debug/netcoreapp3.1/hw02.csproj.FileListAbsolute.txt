@@ -1,0 +1,13 @@
+C:\Users\lenovo\OneDrive\University\Ramkhamhaeng\COS\Special\COS3104\lab\vs\hw02\bin\Debug\netcoreapp3.1\hw02.exe
+C:\Users\lenovo\OneDrive\University\Ramkhamhaeng\COS\Special\COS3104\lab\vs\hw02\bin\Debug\netcoreapp3.1\hw02.deps.json
+C:\Users\lenovo\OneDrive\University\Ramkhamhaeng\COS\Special\COS3104\lab\vs\hw02\bin\Debug\netcoreapp3.1\hw02.runtimeconfig.json
+C:\Users\lenovo\OneDrive\University\Ramkhamhaeng\COS\Special\COS3104\lab\vs\hw02\bin\Debug\netcoreapp3.1\hw02.runtimeconfig.dev.json
+C:\Users\lenovo\OneDrive\University\Ramkhamhaeng\COS\Special\COS3104\lab\vs\hw02\bin\Debug\netcoreapp3.1\hw02.dll
+C:\Users\lenovo\OneDrive\University\Ramkhamhaeng\COS\Special\COS3104\lab\vs\hw02\bin\Debug\netcoreapp3.1\hw02.pdb
+C:\Users\lenovo\OneDrive\University\Ramkhamhaeng\COS\Special\COS3104\lab\vs\hw02\obj\Debug\netcoreapp3.1\hw02.csprojAssemblyReference.cache
+C:\Users\lenovo\OneDrive\University\Ramkhamhaeng\COS\Special\COS3104\lab\vs\hw02\obj\Debug\netcoreapp3.1\hw02.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\University\Ramkhamhaeng\COS\Special\COS3104\lab\vs\hw02\obj\Debug\netcoreapp3.1\hw02.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\University\Ramkhamhaeng\COS\Special\COS3104\lab\vs\hw02\obj\Debug\netcoreapp3.1\hw02.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\University\Ramkhamhaeng\COS\Special\COS3104\lab\vs\hw02\obj\Debug\netcoreapp3.1\hw02.dll
+C:\Users\lenovo\OneDrive\University\Ramkhamhaeng\COS\Special\COS3104\lab\vs\hw02\obj\Debug\netcoreapp3.1\hw02.pdb
+C:\Users\lenovo\OneDrive\University\Ramkhamhaeng\COS\Special\COS3104\lab\vs\hw02\obj\Debug\netcoreapp3.1\hw02.genruntimeconfig.cache
